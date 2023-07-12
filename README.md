@@ -1,4 +1,4 @@
-# jora
+#
 
     👋 Hi, I’m @323joram
     👀 I’m interested in java
